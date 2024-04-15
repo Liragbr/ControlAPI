@@ -1,4 +1,4 @@
-# Controle de Contatos
+# 📞🌐 Controle de Contatos
 
 Sistema CRUD para gerenciar o contatos de usuários em uma aplicação ASP.NET Core usando .NET 8.0, a interligação com o banco de dados foi feita usadno o Migration, explicação de uso abaixo.
 
