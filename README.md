@@ -15,6 +15,9 @@ o banco de dados foi feito usando sql Server Management Studio 2022, a interliga
 ```
 Add-Migration CreateTable -Context BancoContext
 ```
+```
+Update-Database -Context BancoContext
+```
 
 ## Pacotes Utilizados
 
